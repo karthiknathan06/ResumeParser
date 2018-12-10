@@ -19,3 +19,5 @@ Named-entity recognition (NER) (also known as entity identification, entity chun
 # Spacy:
 Processing raw text intelligently is difficult: most words are rare, and it's common for words that look completely different to mean almost the same thing. The same words in a different order can mean something completely different. Even splitting text into useful word-like units can be difficult in many languages. While it's possible to solve some problems starting from only the raw characters, it's usually better to use linguistic knowledge to add useful information. That's exactly what spaCy is designed to do: you put in raw text, and get back a labelled object, that comes with a variety of annotations.
 
+Completed in hackathon with responsive stack web application on November 2018-
+creatrix2k18 #creativechamps
