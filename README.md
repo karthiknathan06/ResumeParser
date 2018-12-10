@@ -12,7 +12,7 @@ Saves a ton of time.Companies spend over 23 hours in one job opening to scan res
 The quality of hire increases tremendously.
 
 
-# Name Entity Recognition
+# Named Entity Recognition
 Resume parsing through Name entity recognition:
 Named-entity recognition (NER) (also known as entity identification, entity chunking and entity extraction) is a subtask of information extraction that seeks to locate and classify named entity mentions in unstructured text into pre-defined categories such as the person names, organizations, locations, medical codes, time expressions, quantities, monetary values, percentages, etc.
 
