@@ -21,3 +21,8 @@ Processing raw text intelligently is difficult: most words are rare, and it's co
 
 Completed in hackathon with responsive stack web application on November 2018-
 creatrix2k18 #creativechamps
+
+Team members:
+Karthiknathan
+poojaselvam
+Ananth
